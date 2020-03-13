@@ -2,7 +2,7 @@ $(document).ready(() => {
     showProducts();
 });
 
-
+//DIS DO WORK!!!
 /* async function getProducts() {
     const products = await $.ajax({
         url: '/products',
